@@ -1,0 +1,35 @@
+baseurl = "https://thishaseeb.github.io/"
+title = "thishaseeb Blog"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "blue"
+  description = "Describe your website"
+  copyright = "&copy;2023 Haseeb M."
+  sidebarAbout = [
+    "I am a professional Dev Ops engineer working with a special interest in programming. This here is an attempt to contain my varying interests in one place!"
+  ]
+  email = "haseeb@haseeb.github.io"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "/portfolio"
+  home = true
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  email         = "email@example.com"
+  instagram     = "https://instagram.com"
+  github        = "https://github.com/thishaseeb"
+  whatsapp      = "wa.me service link"
