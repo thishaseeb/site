@@ -20,7 +20,7 @@ First off, you might be wondering what the image has to do with anything. It doe
 
 ## Statement of Intentions.
 
-I intend on making this space a relatively unspecific catalogue of proejcts undergone. I had a few ideas of things to try that could be fun to document, and hence have created this space to do exactly that!
+I intend on making this space a relatively unspecific catalogue of projects undergone. I had a few ideas of things to try that could be fun to document, and hence have created this space to do exactly that!
 
 Hopefully the overhead in writing a post is not tooooo high, but I have attempted to automate what i can to reduce said overhead! Thank you hugo, and Github Pages.
 
