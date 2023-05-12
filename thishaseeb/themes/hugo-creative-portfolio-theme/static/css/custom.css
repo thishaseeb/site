@@ -1,1 +1,27 @@
 /* your styles go here */
+pre {
+    max-height: 350px;
+    overflow-y: scroll;
+    text-shadow: none;
+    transition: 0.9s ease-in;
+    text-shadow: 0px 0px 0px #dde;
+}
+
+pre:hover {
+    max-height: 350px;
+    overflow-y: scroll;
+    text-shadow: 3px 5px 2px #dde;
+    transition: 2s ease-out;
+    background: white;
+}
+
+h1,h2,h3 {
+    transition: 0.9s ease-in;
+    text-shadow: 5px 2px 0px #eef;
+}
+
+h1,h2,h3:hover {
+    text-shadow: 10px 5px 12px #dde;
+    transition: 2s ease-out;
+    cursor: default;
+}

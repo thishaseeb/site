@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/blog-2-trading-head.jpg"
 date = "2023-05-08T23:39:00+05:30"
-title = "Prelim MT5 + Python interface for Algo-trading"
+title = "1. Prelim MT5 + Python interface for Algo-trading"
 weight = 0
 +++
 
@@ -13,14 +13,6 @@ Algorithmic Trading is allegedly fairly common, however almost kept behind lock 
 In the past I've come across a fair few Graduate roles and general Jobs centered around Data Science/Engineering for Automated trading algorithms. First off I think there's some contraints to be defined here. I'll be focusing my endevours with a focus on Forex and financial markets, as I know the most about these. They're the most liquid and highly volatile also, and i don't really enjoy fancy testing a longer term algorithm from the get go! 
 
 Worth mentioning, this is just a blog, not financial advise, so don't take it as such, and don't repeat my steps. If you do so, you do it at your own risk.
-
-## Statement of Intentions.
-
-I intend on making this space a relatively unspecific catalogue of proejcts undergone. I had a few ideas of things to try that could be fun to document, and hence have created this space to do exactly that!
-
-Hopefully the overhead in writing a post is not tooooo high, but I have attempted to automate what i can to reduce said overhead! Thank you hugo, and Github Pages.
-
-I did also dabble with using Wordpress for this blog, but the page loadtimes would definitely take a hit with the advantage of ease of use, and the ability to write posts via a mobile device.
 
 ### Intended outcome
 
